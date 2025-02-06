@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message SimpleJson {
+    string json_data = 1;
+}
